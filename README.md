@@ -14,6 +14,7 @@ For developers who wish to run or modify the code.
 
 📦 **2) Download pre-packaged EXE**  
 For general users who prefer to run UPCal directly.
+
 ⚠️ **Important:**  
 The download link will expire on **15/11/2025**.  
 If it has expired, please request a fresh link directly from the author.
