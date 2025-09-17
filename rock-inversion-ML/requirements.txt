@@ -1,0 +1,10 @@
+Python >= 3.8
+numpy
+pandas
+scikit-learn
+pint
+matplotlib
+joblib
+tqdm
+openpyxl
+
