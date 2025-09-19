@@ -15,12 +15,6 @@ For developers who wish to run or modify the code.
 📦 **2) Download pre-packaged EXE**  
 For general users who prefer to run UPCal directly.
 
-⚠️ **Important:**  
-The download link will expire on **15/11/2025**.  
-If it has expired, please request a fresh link directly from the author (ruoshen.lin1@gmail.com).
-
-🔗 [Download EXE](https://filesender.switch.ch/filesender2/?s=download&token=284b652c-8c56-4e99-990a-883313f4ba3f)
-
 Standalone EXE: UPCal is provided as a standalone EXE file, packaged with **Python 3.7** and all required libraries,  
 so you do **not** need to install Python or any additional packages manually.
 
