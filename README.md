@@ -17,6 +17,7 @@ For developers who wish to run or modify the code.
 For general users who prefer to run UPCal directly.
 
 🔗 Download EXE 
+
 https://filesender.switch.ch/filesender2/?s=download&token=284b652c-8c56-4e99-990a-883313f4ba3f
 
 Standalone EXE: UPCal is provided as a standalone EXE file, packaged with **Python 3.7** and all required libraries,  
