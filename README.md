@@ -1,9 +1,10 @@
 # UPCal
-**UPCal** is an open-source framework for automated UDEC parameter calibration using machine learning.
+**UPCal** is an open-source software for automated UDEC parameter calibration using machine learning.
 
 This repository includes:
-- Numerical and experimental datasets for DEM/UDEC modelling
-- Python scripts for training machine learning models (RF, SVR, GPR, DNN)
+- Numerical datasets for training
+- Experimental datasets for validation
+- Python scripts for training machine learning models (RF, SVR, GPR, DNN, and other alternatives)
 - Grid search and back-calibration procedures
 - Example results and benchmarks
 
@@ -14,6 +15,8 @@ For developers who wish to run or modify the code.
 
 📦 **2) Download pre-packaged EXE**  
 For general users who prefer to run UPCal directly.
+
+🔗 Download EXE https://filesender.switch.ch/filesender2/?s=download&token=284b652c-8c56-4e99-990a-883313f4ba3f
 
 Standalone EXE: UPCal is provided as a standalone EXE file, packaged with **Python 3.7** and all required libraries,  
 so you do **not** need to install Python or any additional packages manually.
